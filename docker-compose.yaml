@@ -1,0 +1,6 @@
+version: 1.0.0
+
+services:
+  app:
+    ports:
+      - 8501:8501 
